@@ -1,0 +1,16 @@
+# Data files - không push lên git
+input/
+output/
+backup/
+logs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+.venv/
+
+# Excel temp files
+~$*.xlsx

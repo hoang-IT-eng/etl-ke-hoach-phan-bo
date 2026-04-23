@@ -1,0 +1,12 @@
+# Tài liệu liên quan
+tài liệu liên quan/
+template/
+*.jpg
+*.zip
+
+# Excel files ở root
+*.xlsx
+
+# Text notes
+*.txt
+*.png
